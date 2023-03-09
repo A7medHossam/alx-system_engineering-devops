@@ -1,2 +1,2 @@
 #!/bin/bash
-ip -un
+id -un
